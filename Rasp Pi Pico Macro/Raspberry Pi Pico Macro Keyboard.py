@@ -108,7 +108,8 @@ while True:
         button_19_bool = not button_19_bool
 
     if button_20.value:
-        layout.write('Task Description')
+	keyboard.press(Keycode.CONTROL, Keycode.ALT, Keycode.DELETE)
         time.sleep(0.15)
+        keyboard.release(Keycode.CONTROL, Keycode.ALT, Keycode.DELETE)
         button_20_bool = not button_20_bool
 
