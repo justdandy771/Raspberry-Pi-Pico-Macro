@@ -2,6 +2,7 @@ Wiring Diagram
 
 Connect each of the respective pins you wish to use to the appropriate GPIO Pin placing a switch in between with the gate allowing the pin to pull down to the positive VBUS pin
 
+![image](https://user-images.githubusercontent.com/86481157/129115380-86042ad6-cea7-449c-89d6-946a6e323791.png)
 
 
 How to use:
