@@ -1,3 +1,10 @@
+"""
+When deploying with circuit python save as code.py
+
+circuit python likes to use code.py instead of main.py
+"""
+
+
 import board
 import digitalio
 import time
